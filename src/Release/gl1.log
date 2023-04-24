@@ -1,0 +1,2 @@
+﻿  glad.c
+G:\csStudy\UofU\CS 6660 PBA\glad_framework\src\glad.c(2533,1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?

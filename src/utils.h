@@ -3,14 +3,21 @@
 #include "stb_image.h"
 #include <iostream>
 
+void renderSphere();
+void renderPlane();
+void renderCube(int light = 0);
+void renderArrow(vector<GLfloat>& verticesDraw);
+void drawCircle(GLfloat x, GLfloat y, GLfloat z, GLfloat radius);
+
 void framebuffer_size_callback(GLFWwindow* window, int width, int height);
 void mouse_callback(GLFWwindow* window, double xpos, double ypos);
 void scroll_callback(GLFWwindow* window, double xoffset, double yoffset);
+void mouse_button_callback(GLFWwindow* window, int button, int action, int mods);
 void processInput(GLFWwindow *window);
 void gen_preview_framebuffer();
-void renderPlane();
-void renderCube(int light=0);
 void click_callback(GLFWwindow* window,int button,int action,int mods);
+void key_callback(GLFWwindow* window, int key, int scancode, int action, int mods);
+
 unsigned int Feedback_Initialize(unsigned int *_vbo=NULL,unsigned int *_xfb=NULL);
 unsigned int loadTexture(char const * path)
 {

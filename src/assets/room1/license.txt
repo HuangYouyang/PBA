@@ -1,0 +1,11 @@
+Model Information:
+* title:	Kris's Room (Deltarune)
+* source:	https://sketchfab.com/3d-models/kriss-room-deltarune-e5cf6e207b3e407eb823e87a6c7d30ad
+* author:	MaxDeaconVR (https://sketchfab.com/MaxDeaconVR)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Kris's Room (Deltarune)" (https://sketchfab.com/3d-models/kriss-room-deltarune-e5cf6e207b3e407eb823e87a6c7d30ad) by MaxDeaconVR (https://sketchfab.com/MaxDeaconVR) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

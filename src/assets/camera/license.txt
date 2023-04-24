@@ -1,0 +1,11 @@
+Model Information:
+* title:	Olympus Film Camera PBR Scan Project
+* source:	https://sketchfab.com/3d-models/olympus-film-camera-pbr-scan-project-aa843426948145aea7213ae6bf5d3bb6
+* author:	Epic_Tree_Store (https://sketchfab.com/johngreenstone)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Olympus Film Camera PBR Scan Project" (https://sketchfab.com/3d-models/olympus-film-camera-pbr-scan-project-aa843426948145aea7213ae6bf5d3bb6) by Epic_Tree_Store (https://sketchfab.com/johngreenstone) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

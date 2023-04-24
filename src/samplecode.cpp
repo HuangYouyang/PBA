@@ -5,8 +5,8 @@
 #include <glm/gtc/matrix_transform.hpp>
 #include <glm/gtc/type_ptr.hpp>
 
-#include <learnopengl/shader_m.h>
-#include <learnopengl/camera.h>
+#include "shader.h"
+#include "camera.h"
 
 #include <iostream>
 

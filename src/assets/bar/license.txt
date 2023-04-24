@@ -1,0 +1,11 @@
+Model Information:
+* title:	Bar Diorama
+* source:	https://sketchfab.com/3d-models/bar-diorama-f6a0c615ecf842539ab70d4c2bb54a64
+* author:	Akimoxxl (https://sketchfab.com/Akimoxxl)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Bar Diorama" (https://sketchfab.com/3d-models/bar-diorama-f6a0c615ecf842539ab70d4c2bb54a64) by Akimoxxl (https://sketchfab.com/Akimoxxl) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

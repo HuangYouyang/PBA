@@ -1,0 +1,11 @@
+Model Information:
+* title:	Cradle Globe (Game Ready / 4K PBR)
+* source:	https://sketchfab.com/3d-models/cradle-globe-game-ready-4k-pbr-e4f3b40cb06e4639ae219d4b338b48a9
+* author:	Meerschaum Digital (https://sketchfab.com/meerschaumdigital)
+
+Model License:
+* license type:	CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)
+* requirements:	Author must be credited. Modified versions must have the same license. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Cradle Globe (Game Ready / 4K PBR)" (https://sketchfab.com/3d-models/cradle-globe-game-ready-4k-pbr-e4f3b40cb06e4639ae219d4b338b48a9) by Meerschaum Digital (https://sketchfab.com/meerschaumdigital) licensed under CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)
